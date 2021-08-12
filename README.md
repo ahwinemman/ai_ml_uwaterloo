@@ -1,3 +1,7 @@
 # AI * ML:
 
-TODO: Arrange ECE 657A Assignments
+## TODOS
+* Arrange ECE 657A Assignments
+* Add ECE 606 Fall 2021 Assignments
+
+EAZI!!
